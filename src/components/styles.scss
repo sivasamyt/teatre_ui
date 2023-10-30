@@ -1,0 +1,9 @@
+.tickets_booking {
+  cursor: pointer;
+  .theater_name {
+    color: red;
+  }
+  &:hover {
+    font-size: large;
+  }
+}
